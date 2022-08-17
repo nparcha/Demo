@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:6.11.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6a613c197c0dec0038a97cadf9493d4c/transformed/audience-network-sdk-6.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4b56e75390b49d650ba46c0625b690fd/transformed/jetified-audience-network-sdk-6.11.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6bf822a16e12ecac428fdd1a541407c9/transformed/jetified-audience-network-sdk-6.11.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6bf822a16e12ecac428fdd1a541407c9/transformed/jetified-audience-network-sdk-6.11.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6bf822a16e12ecac428fdd1a541407c9/transformed/jetified-audience-network-sdk-6.11.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ba68c8</color>
+    <color name="colorBlue">#2196F3</color>
+    <color name="colorDark">#151C22</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorLight">#FFFFFF</color>
+    <color name="colorPrimary">#9c27b0</color>
+    <color name="colorPrimaryDark">#6a1b9a</color>
+    <color name="colorPurple">#9c27b0</color>
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="app_name">AdNetworkSDK</string>
+    <string name="applovin_sdk_key">x5ImfykxaMWs-ntpF6fuNGlFBtC9zBJuGcewTMs8kN_h9sVOz9HLQ0abtnmqy4iDgM8Ek_MRML7WCdvAnBVBB4</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/colorLight</item>
+        <item name="materialButtonStyle">@style/AppTheme.materialButton</item>
+    </style>
+    <style name="AppTheme.materialButton" parent="Widget.MaterialComponents.Button">
+        <item name="textAllCaps">false</item>
+        <item name="cornerRadius">@dimen/corner_radius</item>
+        <item name="backgroundTint">@color/colorPurple</item>
+        <item name="android:height">50dp</item>
+    </style>
+</resources>

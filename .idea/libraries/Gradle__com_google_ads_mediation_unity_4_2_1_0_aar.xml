@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ads.mediation:unity:4.2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7dcfb79e7c5e912d883d757f431d8df4/transformed/jetified-unity-4.2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a548393466bb6b09a81e8ab1736f8e7/transformed/jetified-unity-4.2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5a548393466bb6b09a81e8ab1736f8e7/transformed/jetified-unity-4.2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5a548393466bb6b09a81e8ab1736f8e7/transformed/jetified-unity-4.2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.ads.mediation/unity/4.2.1.0/4f3c414c717a5b56aee0413b5ca36ed0270d8cfc/unity-4.2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
